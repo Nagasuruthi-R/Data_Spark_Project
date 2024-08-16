@@ -77,4 +77,18 @@ to the database, table creation and data insertion process.
 occurs.
 ## Import datasets into Power BI:
 I imported datasets into power bi using import icon (Mysql database) 
+## Data Modelling Flowchart:
 ![global_electronics_flowchart](https://github.com/user-attachments/assets/0062122c-91a0-4428-9551-5838490f86c7)
+## Visualization in Power BI:
+### Demographic Distribution:
+a) Customer analysis: Analyzed number of customers spreads across the world using female and 
+male categorization , age category
+b) To visualize: used “Clustered column bar chart”, “pie charts”, “slicers”, “Map”
+![image](https://github.com/user-attachments/assets/3b5c4a4f-2cb2-4a1e-8dac-b111efc684dc)
+### Purchase Patterns:
+a) Purchase Frequencies Based on Order: Created a summary table which has order value, average 
+order value, purchase frequencies, total quantity sold and used all of these measures to visualize 
+purchase trends using age category and products category, subcategory.
+b) To visualize: used “stacked area chart”, “Line and clustered column chart”,” pie charts”, “slicers”
+
+
