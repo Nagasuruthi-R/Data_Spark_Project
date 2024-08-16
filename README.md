@@ -89,6 +89,78 @@ b) To visualize: used “Clustered column bar chart”, “pie charts”, “sli
 a) Purchase Frequencies Based on Order: Created a summary table which has order value, average 
 order value, purchase frequencies, total quantity sold and used all of these measures to visualize 
 purchase trends using age category and products category, subcategory.
-b) To visualize: used “stacked area chart”, “Line and clustered column chart”,” pie charts”, “slicers”
+b) To visualize: used “stacked area chart”, “Line and clustered column chart”,” pie charts”, “slicers”.
+
+![image](https://github.com/user-attachments/assets/deec8629-1b2c-4a62-93c2-4c2ecf6293fd)
+### Segmenting purchase patterns:
+a) Customer analysis: Found “High value customers”, “Frequent Buyers” to analyze regular, 
+irregular customers and frequent and infrequent buyers.
+b) To Visualize: used “donut charts”, “Line and clustered column chart”, “slicers”.
+
+![image](https://github.com/user-attachments/assets/e04f5046-589e-4473-9706-3712fa2c9f96)
+### Sales Performance Analysis:
+a) Sales performance analysis: Total number of sales gives an overview of how many distinct 
+orders were placed. If this number is high, it indicates a healthy volume of sales.
+b) Total sales by year: This calculation helps to access company’s performance in the current year. 
+Comparing this value to previous years can reveal trends in sales growth or decline.
+c) To visualize: used clustered column chart, line area chart and donut chart.
+
+![image](https://github.com/user-attachments/assets/f8bdc98e-77e7-48c2-ad54-1951435f76ca)
+### Sales by Order:
+a) Sales analysis: Used total number of sales, total quantity sold in the country in the particular 
+year according to category and subcategory products.
+b) To visualize: Used “clustered column chart”, “donut chart”, “ slicers
+
+![image](https://github.com/user-attachments/assets/c21586e5-0007-4fc6-941b-3794cb42373a)
+### Sales by Stores: 
+a) Sales analysis: Found sales per square meter according to state and country using total quantity 
+sold.
+b) To visualize: Used “area chart” , “clustered bar chart”, “slicers”.
+
+![image](https://github.com/user-attachments/assets/1f778c1a-a011-4afc-b7c5-b7f5c4243862)
+
+### Sales by Currency:
+a) Sales analysis: Found exchange key, converted total sales according to US dollar and visualized 
+them using total number of sales according to each currency code.
+b) Exchange Rate Impact on Sales: Rate based on other currency code and sales key measures 
+account of currency fluctuations.
+c) To visualize: used “pie charts”, line and clustered column chart”, “slicers”
+
+![image](https://github.com/user-attachments/assets/08efa9fd-a080-499e-9361-4f6c94fd4dde)
+### Product and Profitability Analysis:
+a) Total Quantity Sold: Understanding the total quantity of products sold which helps in inventory 
+planning and identifying popular products.
+b) Profit Margin and Total Profit: help to evaluate the profitability of products. Which has high 
+margin will be prioritized and low margin products might required price adjustment.
+c) To visualize: used “clustered column charts”, “pie chart”, “slicers”.
+
+![image](https://github.com/user-attachments/assets/fb0e0bba-53c9-4a16-9547-a91c7c47622a)
+### Category and Profit Analysis:
+a) Profit analysis: Found total profit by year and profit margin according to category, subcategory 
+and brand.
+b) To visualize: used “area chart”, ”stacked area chart”, “clustered column chart”, “pie chart”.
+
+![image](https://github.com/user-attachments/assets/70ded585-17e7-4c24-9ab2-0bbc762c3a73)
+
+### Store Analysis:
+a) Year, Month and Quarter: Allows us to analyze sales trends over different time period.
+b) Store age: We can find how long each stores has been operated. Which can be correlated with 
+sales performance to evaluate whether new stores are performing as we expected.
+c) To visualize: Used “clustered bar chart”, “pie charts”, “slicers”
+
+![image](https://github.com/user-attachments/assets/2e340c91-bb40-4e49-84e3-48ef87b5a0a0)
+
+### Analyzing sales Geographicaly:
+a) Store analysis: Just plotted in the globe according to total sales how long and how much sales 
+happened in yearly basis.
+b) To visualize: Used “globe(map)”, “slicers”, “clustered bar chart”
+
+![image](https://github.com/user-attachments/assets/4c84b2ba-d510-4ede-b020-f789300c956d)
+
+## Conclusion:
+The above all mentioned visualization will make the company data driven decision to enhance customer 
+satisfaction and drive overall business growth.
+
+
 
 
