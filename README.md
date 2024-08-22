@@ -58,23 +58,23 @@ Category, subcategory, category key, subcategory key.
 Sales: order number (primary key), line item (primary key), order date, delivery date, customer 
 key (foreign key), store key (foreign key), product key (foreign key), quantity, currency code
 ## Inserted Data into Tables:
-1. Data Loading: The code is designed to load data from excel files into pandas dataframe.
+###1. Data Loading: The code is designed to load data from excel files into pandas dataframe.
 (“df_customers”, “df_products”, “df_exchange_rates”, “df_stores”, “df_sales”).
  Column Mapping: A dictionary named column mappings is used to map column name from the 
 excel files to the corresponding columns in the Mysql table.
-2. Insert functions: 
---->This function takes a dataframe , a table name, cursor object and insert each row in the 
-DataFrame into corresponding Mysql table.
---->SQL queries are dynamically constructed and executed using the cursor.
---->This first insert data into stores, products, exchange_rates, exchange_rates and then finally 
-sales table to ensure foreign key constraints linking the stores, custo,ers, products table.
-3. Error Handling:
---->The code includes try-except block to handle errors that might occur during the connection 
-to the database, table creation and data insertion process.
---->If an error occurs, it prints the error message and continues executing the rest of the code.
-4. Execution and Output:
---->The code prints the message, if my output is correct or it prints the error message if anything 
-occurs.
+###2. Insert functions: 
+     1.This function takes a dataframe , a table name, cursor object and insert each row in the 
+       DataFrame into corresponding Mysql table.
+     2.SQL queries are dynamically constructed and executed using the cursor.
+     3.This first insert data into stores, products, exchange_rates, customers and then finally 
+       sales table to ensure foreign key constraints linking the stores, customers, products table.
+###3. Error Handling:
+     1.The code includes try-except block to handle errors that might occur during the connection 
+       to the database, table creation and data insertion process.
+     2.If an error occurs, it prints the error message and continues executing the rest of the code.
+###4. Execution and Output:
+     1.The code prints the message, if my output is correct or it prints the error message if anything 
+       occurs.
 ## Import datasets into Power BI:
 I imported datasets into power bi using import icon (Mysql database) 
 ## Data Modelling Flowchart:
